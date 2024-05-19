@@ -1,2 +1,13 @@
 # polyfills
-polyfills of map filter reduce call apply bind promise all obj compare deep copy
+polyfills of 
+- for each
+- map
+- filter
+- reduce
+- call
+- apply
+- bind
+- promiseAll
+- deepCopy
+- compareObj
+- array flat with depth
