@@ -22,7 +22,7 @@ let promise3 = new Promise((resolve, reject)=>{
 
 Promise.myall = function(promiseArr){
 let result =[]
-let counter =[]
+let counter =0
 return new Promise((resolve, reject)=>{
     promiseArr.forEach((promise, index) => {
         promise.then((res) =>{
