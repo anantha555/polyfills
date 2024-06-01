@@ -7,6 +7,7 @@ polyfills of
 - call
 - apply
 - bind
+- concat
 - promiseAll
 - deepCopy
 - compareObj
